@@ -1,0 +1,96 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Boris Johnson authorised Afghan animal evacuation, leaked email suggests",
+      "description": "Boris Johnson has previously dismissed as \"nonsense\" claims he intervened to help an animal charity.",
+      "url": "http://www.bbc.co.uk/news/uk-politics-60143279",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BF32/production/_119964984_mediaitem119964983.jpg",
+      "publishedAt": "2022-01-26T14:07:19.1618805Z",
+      "content": "Media caption, Boris Johnson says it is a \"complete nonsense\" he prioritised helping to get a charity's animals out of Kabul\r\nBoris Johnson authorised the evacuation of animals from Afghanistan durin… [+995 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "UN calls for evacuation of children trapped in besieged Syrian prison",
+      "description": "The UN has received reports of deaths among the hundreds of boys at a jail seized by IS militants.",
+      "url": "http://www.bbc.co.uk/news/world-middle-east-60139851",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/149CE/production/_123003448_mediaitem123003447.jpg",
+      "publishedAt": "2022-01-26T12:37:24.1084566Z",
+      "content": "Image caption, The Syrian Democratic Forces says that about 1,000 militants and inmates have surrendered\r\nThe UN children's agency has called for the evacuation of several hundred child detainees tra… [+3273 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Dozens feared lost as 'smuggling' boat capsizes off Florida",
+      "description": "US officials say the vessel may have been part of a \"human smuggling venture\".",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-60135487",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1680/production/_123006750_fj-ppgsxsamqe7u.jpg",
+      "publishedAt": "2022-01-26T11:37:24.9331106Z",
+      "content": "Image source, US Coast Guard\r\nImage caption, Fishermen found the survivor on Tuesday morning\r\nUS Coast Guard officials are searching for 39 people who are feared missing after their ship capsized on … [+1555 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Blue Diamond Affair: Saudis end dispute with Thailand over stolen gems",
+      "description": "Diplomatic ties resume after a 30-year row over jewels stolen by a cleaner and a string of murders.",
+      "url": "http://www.bbc.co.uk/news/world-asia-60133105",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C655/production/_108937705_2739144.jpg",
+      "publishedAt": "2022-01-26T11:37:21.6214347Z",
+      "content": "Image caption, Thai police display some of the jewels they recovered, with Kriangkrai in handcuffs on the right\r\nSaudi Arabia and Thailand have ended a 30-year row over a scandal involving stolen jew… [+2729 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ghostly monkey and crocodile newts among new Mekong area species",
+      "description": "A list of 224 newly discovered species is published by the World Wildlife Fund conservation group.",
+      "url": "http://www.bbc.co.uk/news/world-asia-60106144",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A4B5/production/_122956124_771c5b7a-ef21-4766-ba76-9d5144846b2d.jpg",
+      "publishedAt": "2022-01-26T10:37:23.858874Z",
+      "content": "Image source, Press Association\r\nImage caption, The Popa langur monkey has ghostly white circles around its eyes\r\nThe World Wildlife Fund (WWF) conservation group has published a list of 224 newly di… [+1324 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Missing girl meets her rescuer again decades later",
+      "description": "Back in 1968, toddler Kathy Wrethman went missing in Australia but was recovered safely.",
+      "url": "http://www.bbc.co.uk/news/world-australia-60129089",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/100E0/production/_123006756_976a.jpg",
+      "publishedAt": "2022-01-26T07:52:22.2873908Z",
+      "content": "Back in 1968, toddler Kathy Wrethman went missing in Australia. Initial searches came to nothing, but she was found by chance by a group of teenagers. \r\nAs part of a BBC investigation for the Fairy M… [+247 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Disney responds to Peter Dinklage's criticism of Snow White remake",
+      "description": "Actor Peter Dinklage called a live-action remake of Snow White and the Seven Dwarfs \"backwards\".",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-60135547",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3B92/production/_123005251_mediaitem123005247.jpg",
+      "publishedAt": "2022-01-26T07:22:25.7504125Z",
+      "content": "Image caption, Peter Dinklage accused Disney of double standards\r\nDisney has responded to criticism of its forthcoming live action adaptation of Snow White and the Seven Dwarfs made by Game of Throne… [+1419 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Pressure on UK PM as party investigation completed",
+      "description": "Sue Gray's inquiry into lockdown parties is due soon, as the Met Police probe events at No 10.",
+      "url": "http://www.bbc.co.uk/news/live/uk-politics-60134104",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+      "publishedAt": "2022-01-26T06:07:32.0403372Z",
+      "content": "The pressure has\r\nbeen building on Boris Johnson for weeks over gatherings in Downing Street when\r\nlaws preventing social mixing were in place.\r\nAccording to media\r\nreports, 17 gatherings allegedly t… [+870 chars]"
+    },
+    {
+      "source": { "id": "bbc-news", "name": "BBC News" },
+      "author": "BBC News",
+      "title": "Ukraine: US could sanction Putin if Russia invades, Biden says",
+      "description": "The US president says he would consider personal sanctions on Vladimir Putin if Russia invades Ukraine.",
+      "url": "http://www.bbc.co.uk/news/world-europe-60134295",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12520/production/_123004057_mediaitem123004056.jpg",
+      "publishedAt": "2022-01-25T19:52:21.5288243Z",
+      "content": "Image caption, Mr Biden spoke to reporters about Ukraine as he visited a Washington clothing store\r\nUS President Joe Biden says he would consider personal sanctions on Vladimir Putin if Russia invade… [+1778 chars]"
+    }
+  ]
+}
